@@ -6,4 +6,5 @@ public class XXX {
  int yy = 8;
  int gg = 9;
  int gggg = 00;
+ int cvc = 0;
 }
